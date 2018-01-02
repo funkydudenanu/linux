@@ -1,0 +1,2 @@
+sudo apt-get install mp3-decoder -y
+mp3-decoder /location
